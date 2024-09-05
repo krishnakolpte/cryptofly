@@ -18,7 +18,7 @@ function Home() {
         fontWeight={'thin'}
         color={'white'}
       >
-        Xcrypto
+        CryptoFly
       </Text>
     </Box>
   );
